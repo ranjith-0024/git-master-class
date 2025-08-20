@@ -19,5 +19,7 @@ for adding files to local repository
 > git remote add name remote path -> for adding remote repository in local repository
 > git remote -v -> for checking wheather the remote is added
 > git push -u remote name | master -
+git branch -command for listing all branches
+commit history- git log
 
 
